@@ -57,16 +57,6 @@ When I'm not coding, you'll find me with a good book 📚.
 
 ---
 
-## 🚀 Projects
-
-> 🔧 *This section is a great place to pin 2–3 of your best projects. Here's a template to follow for each:*
-
-### [Project Name](https://github.com/jahnavibohra16/project-name)
-A one-line description of what it does and what problem it solves.
-
-`Node.js` `Express` `JavaScript`
-
----
 
 ## 📈 GitHub Stats
 
@@ -81,13 +71,7 @@ A one-line description of what it does and what problem it solves.
 
 ---
 
-## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jahnavibohra16&margin-w=8&no-frame=true&row=1" />
-</p>
-
----
 
 ## 📚 Currently Learning
 
